@@ -9,4 +9,4 @@ app.use(ctx => {
     ctx.body = '网站正在建设中...';
 });
 
-app.listen(3000);
+app.listen(80);
